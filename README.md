@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋 I'm João Fonseca
 
-<!--
-**Fsk96/Fsk96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Support professional with 2 years of experience  
+💻 Proficient in C, C++, C#, Python  
+☁️ Knowledge in Cloud Infrastructure, DevOps, and basic Cybersecurity  
+🚀 Building academic and personal projects to strengthen development and DevOps skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** C, C++, C#, Python, SQL, HTML, CSS
+- **Frameworks / Tools:** ASP.NET, Docker, Azure, Git, GitHub
+- **Interests:** Data Structures, Automation, DevOps, Cybersecurity
+
+---
+
+## 📂 Featured Projects
+- [🚗 Doubly Linked List of Cars in C++](https://github.com/Fsk96/ListaCarros)  
+Academic console app demonstrating a FIFO queue using a doubly linked list.
+
+---
+
+## 🌱 Currently Learning
+- Advanced C++ and OOP  )  
+- DevOps practices and CI/CD pipelines  
+
+---
+
+## 📫 How to reach me
+- 💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-fonseca96/
+- 📧 Email: joaofsc96@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and follow my journey!
