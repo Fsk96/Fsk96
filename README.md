@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/joaofsc9625/a7297b61-f42b-481b-ac92-1d569ff70f4f/9a373661-843e-42cb-95ac-a43557d112a3/_apis/work/boardbadge/8ec1ba6d-45b2-4e23-9c4b-a1aaff761be4)](https://dev.azure.com/joaofsc9625/a7297b61-f42b-481b-ac92-1d569ff70f4f/_boards/board/t/9a373661-843e-42cb-95ac-a43557d112a3/Microsoft.RequirementCategory)
 # Hi there 👋 I'm João Fonseca
 
 🎓 IT Support professional with 2 years of experience  
