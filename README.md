@@ -3,7 +3,7 @@
 
 🎓 IT Support professional with 2 years of experience  
 💻 Proficient in C, C++, C#, Python  
-☁️ Knowledge in Cloud Infrastructure, DevOps, and basic Cybersecurity  
+☁️ Knowledge in Cloud, Infrastructure and basic Cybersecurity  
 🚀 Building academic and personal projects to strengthen development and DevOps skills
 
 ---
@@ -16,19 +16,27 @@
 ---
 
 ## 📂 Featured Projects
-- [🚗 Doubly Linked List of Cars in C++](https://github.com/Fsk96/ListaCarros)  
+- [🔧 HelpDeskAPI](https://github.com/Fsk96/HelpDeskAPI)
+RESTful API built with **ASP.NET Core** for managing tickets and users in a help desk system. Focused on clean architecture and backend fundamentals.  
+- [🚗 ListaCarros](https://github.com/Fsk96/ListaCarros)  
 Academic console app demonstrating a FIFO queue using a doubly linked list.
+- [📚 Livros](https://github.com/Fsk96/Livros)
+C++ console application to manage a book collection.
+- [🧮 Calculadora-CSharp](https://github.com/Fsk96/Calculadora-CSharp)
+Simple C# console calculator demonstrating OOP principles.
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced C++ and OOP  )  
-- DevOps practices and CI/CD pipelines  
+- DevOps practices and CI/CD pipelines
+- ASP.NET Core and Web APIs
+- Basics of Cybersecurity  
 
 ---
 
 ## 📫 How to reach me
-- 💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-fonseca96/
+- 💼 LinkedIn: https://www.linkedin.com/in/joão-fonseca96/
 - 📧 Email: joaofsc96@gmail.com
 
 ---
