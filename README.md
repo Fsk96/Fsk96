@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** C, C++, C#, Python, SQL, HTML, CSS
-- **Frameworks / Tools:** ASP.NET, Docker, Azure, Git, GitHub
+- **Frameworks / Tools:** ASP.NET, Azure, Git, GitHub
 - **Interests:** Data Structures, Automation, DevOps, Cybersecurity
 
 ---
