@@ -32,7 +32,7 @@ Frontend application for the HelpDesk system, built to consume the HelpDeskAPI.
 Focused on UI structure, API integration, and frontend–backend communication.
 📌 This project complements the HelpDeskAPI, showcasing a full-stack workflow.
 
--[🔐 Password Generator](https://github.com/Fsk96/password-generator)
+- [🔐 Password Generator](https://github.com/Fsk96/password-generator)
 Python project demonstrating secure cryptographic primitives, key derivation, and encrypted local storage.
 
 - [🧮 Calculadora-CSharp](https://github.com/Fsk96/Calculadora-CSharp)
